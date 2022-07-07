@@ -1,6 +1,6 @@
 [Project]
-FileName=CircleConcurrentProcess.dev
-Name=CircleConcurrentProcess
+FileName=Assignment_Q3.dev
+Name=Assignment_Q3
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=ConcurrentProcessCircle.cpp
+FileName=Dijkstra's_algorithm.cpp
 CompileCpp=1
 Folder=
 Compile=1
